@@ -1,0 +1,80 @@
+{
+  "columns": [
+    {
+      "field": "id",
+      "headerName": "ID",
+      "width": 90
+    },
+    {
+      "field": "lastName",
+      "headerName": "Last name",
+      "width": 100
+    },
+    {
+      "field": "firstName",
+      "headerName": "First name",
+      "width": 100
+    },
+    {
+      "field": "age",
+      "headerName": "Age",
+      "width": 100
+    }
+  ],
+  "rows": [
+    {
+      "lastName": "Snow",
+      "firstName": "Jon",
+      "age": 35.0,
+      "id": 1
+    },
+    {
+      "lastName": "Lannister",
+      "firstName": "Cersei",
+      "age": 42.0,
+      "id": 2
+    },
+    {
+      "lastName": "Lannister",
+      "firstName": "Jaime",
+      "age": 45.0,
+      "id": 3
+    },
+    {
+      "lastName": "Stark",
+      "firstName": "Arya",
+      "age": 16.0,
+      "id": 4
+    },
+    {
+      "lastName": "Targaryen",
+      "firstName": "Daenerys",
+      "age": NaN,
+      "id": 5
+    },
+    {
+      "lastName": "Melisandre",
+      "firstName": NaN,
+      "age": 150.0,
+      "id": 6
+    },
+    {
+      "lastName": "Clifford",
+      "firstName": "Ferrara",
+      "age": 44.0,
+      "id": 7
+    },
+    {
+      "lastName": "Frances",
+      "firstName": "Rossini",
+      "age": 36.0,
+      "id": 8
+    },
+    {
+      "lastName": "Roxie",
+      "firstName": "Harvey",
+      "age": 65.0,
+      "id": 9
+    }
+  ]
+}
