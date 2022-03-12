@@ -65,6 +65,9 @@ jsonFile = open("program_output.json", "w")
 jsonFile.write(json.dumps(output_dict))
 jsonFile.close()
 
+# TODO: Package up into function
+# TODO: Deal with varying cases where the index and columns are weirdly configured
+# TODO: Replace NaNs with nulls
 
 
 
